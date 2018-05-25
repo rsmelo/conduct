@@ -1,3 +1,5 @@
-name: my test
+ name: my test
+ 
 title: my title
+
 theme: jekyll-theme-tactile
